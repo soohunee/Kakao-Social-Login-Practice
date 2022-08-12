@@ -1,2 +1,2 @@
-# Kakao-Social-Login-Practice
-Kakao Social Login Practice
+# Social-Login-Practice
+Social Login Practice
