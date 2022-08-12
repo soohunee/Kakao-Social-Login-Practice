@@ -1,6 +1,6 @@
-package com.kakao.socialLogin.practice.kakaoSocialLogin.controller;
+package com.kakao.socialLogin.practice.controller;
 
-import com.kakao.socialLogin.practice.kakaoSocialLogin.API.KakaoAPI;
+import com.kakao.socialLogin.practice.API.KakaoAPI;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

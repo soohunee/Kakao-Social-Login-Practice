@@ -1,4 +1,4 @@
-package com.kakao.socialLogin.practice.kakaoSocialLogin.API;
+package com.kakao.socialLogin.practice.API;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;

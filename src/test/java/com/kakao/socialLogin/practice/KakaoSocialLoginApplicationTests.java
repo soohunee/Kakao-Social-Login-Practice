@@ -1,4 +1,4 @@
-package com.kakao.socialLogin.practice.kakaoSocialLogin;
+package com.kakao.socialLogin.practice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
